@@ -2,7 +2,7 @@
   <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" style="display: block; margin: 0 auto">
 </p>
 
-<h1 align="center"><b>IE402.P11 Lab 1 Group 8</b> </h1>
+<h1 align="center"><b>IE402.P11 Lab 1 Group 6</b> </h1>
 
 ## Giới thiệu
 
@@ -27,11 +27,11 @@ Chào mừng bạn đến với repo IE402.P11 - LAB 1! Đây là bài tập Lab
 
 1. Tải repository về máy:
    ```
-   git clone https://github.com/Illya1123/IE402-LAB1.git
+   git clone https://github.com/Tuong22/IE402-LAB01.git
    ```
 2. Chuyển sang thư mục dự án:
    ```
-   cd ./IE402-LAB1/
+   cd ./IE402-LAB01/
    ```
 3. Mở dự án bằng Visual Studio Code
    ```
