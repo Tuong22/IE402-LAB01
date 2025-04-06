@@ -1,22 +1,4 @@
 {
-<<<<<<< HEAD
-  "points": [
-    {
-      "type": "point",
-      "longitude": 105.816837,
-      "latitude": 21.053426,
-      "Name": "",
-      "Location": "Hồ Tây",
-      "symbol": {
-        "type": "picture-marker",
-        "url": "./symbol/lake.png",
-        "width": "30px",
-        "height": "30px"
-      },
-      "popupTemplate": {
-        "title": "{Name}",
-        "content": "{Name} <b>{Location}</b>."
-=======
    "points": [
       {
          "type": "point",
