@@ -4,8 +4,8 @@
          "type": "point",
          "longitude": 105.816837,
          "latitude": 21.053426,
-         "Name": "",
-         "Location": "Hồ Tây",
+         "Name": "Hồ Tây",
+         "Location": "",
          "symbol": {
             "type": "picture-marker",
             "url": "./symbol/lake.png",
@@ -59,7 +59,7 @@
          "Location": "Đền Hai Bà Trưng",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/pagoda.png",
             "width": "30px",
             "height": "30px"
          },
@@ -76,7 +76,7 @@
          "Location": "Chùa Cửu Việt",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/pagoda.png",
             "width": "30px",
             "height": "30px"
          },
@@ -110,7 +110,7 @@
          "Location": "Nhà hát Lớn Hà Nội",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/museum.png",
+            "url": "./symbol/nha-hat-lon.png",
             "width": "30px",
             "height": "30px"
          },
@@ -127,7 +127,7 @@
          "Location": "Quốc Oai",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/museum.png",
+            "url": "./symbol/pagoda.png",
             "width": "30px",
             "height": "30px"
          },
@@ -144,7 +144,7 @@
          "Location": "Thạch Thất",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/museum.png",
+            "url": "./symbol/pagoda.png",
             "width": "30px",
             "height": "30px"
          },
@@ -161,7 +161,7 @@
          "Location": "Bảo tàng Hà Nội",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/museum.png",
             "width": "30px",
             "height": "30px"
          },
@@ -178,7 +178,7 @@
          "Location": "Vườn quốc gia Ba Vì",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/vuon-qg.png",
             "width": "30px",
             "height": "30px"
          },
@@ -195,7 +195,7 @@
          "Location": "Chùa Trăm Gian",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/pagoda.png",
             "width": "30px",
             "height": "30px"
          },
@@ -212,7 +212,7 @@
          "Location": "Khu di tích Cổ Loa",
          "symbol": {
             "type": "picture-marker",
-            "url": "./symbol/golf.png",
+            "url": "./symbol/museum.png",
             "width": "30px",
             "height": "30px"
          },
@@ -14975,9 +14975,9 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               0,
                255,
-               0,
+               255,
+               255,
                0.4
             ],
             "outline": {
@@ -15119,9 +15119,9 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               66,
-               135,
-               245,
+               200,
+               134,
+               89,
                0.4
             ],
             "outline": {
@@ -15383,9 +15383,9 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               66,
-               245,
-               236,
+               56,
+               78,
+               230,
                0.4
             ],
             "outline": {
@@ -15815,9 +15815,9 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               245,
-               66,
-               93,
+               12,
+               180,
+               90,
                0.4
             ],
             "outline": {
@@ -15975,9 +15975,9 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               206,
-               66,
-               245,
+               255,
+               165,
+               0,
                0.4
             ],
             "outline": {
@@ -16499,10 +16499,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               89,
+               23,
+               220,
+               0.4
             ],
             "outline": {
                "color": [
@@ -16923,10 +16923,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               34,
+               139,
+               34,
+               0.4
             ],
             "outline": {
                "color": [
@@ -17395,10 +17395,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               220,
+               20,
+               60,
+               0.4
             ],
             "outline": {
                "color": [
@@ -17983,10 +17983,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               75,
+               0,
+               130,
+               0.4
             ],
             "outline": {
                "color": [
@@ -18567,10 +18567,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               255,
+               105,
+               180,
+               0.4
             ],
             "outline": {
                "color": [
@@ -18975,10 +18975,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               66,
+               135,
+               245,
+               0.4
             ],
             "outline": {
                "color": [
@@ -19427,10 +19427,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               244,
+               67,
+               54,
+               0.4
             ],
             "outline": {
                "color": [
@@ -20003,10 +20003,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               76,
+               175,
+               80,
+               0.4
             ],
             "outline": {
                "color": [
@@ -20591,10 +20591,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               255,
+               193,
+               7,
+               0.4
             ],
             "outline": {
                "color": [
@@ -20899,10 +20899,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               156,
+               39,
+               176,
+               0.4
             ],
             "outline": {
                "color": [
@@ -21527,10 +21527,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               33,
+               150,
+               243,
+               0.4
             ],
             "outline": {
                "color": [
@@ -22407,10 +22407,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               0,
+               188,
+               212,
+               0.4
             ],
             "outline": {
                "color": [
@@ -22683,10 +22683,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               255,
+               87,
+               34,
+               0.4
             ],
             "outline": {
                "color": [
@@ -23187,10 +23187,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               63,
+               81,
+               181,
+               0.4
             ],
             "outline": {
                "color": [
@@ -23615,10 +23615,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               205,
+               220,
+               57,
+               0.4
             ],
             "outline": {
                "color": [
@@ -24355,10 +24355,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               112,
+               128,
+               144,
+               0.4
             ],
             "outline": {
                "color": [
@@ -25031,10 +25031,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               255,
+               99,
+               71,
+               0.4
             ],
             "outline": {
                "color": [
@@ -25679,10 +25679,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               32,
+               178,
+               170,
+               0.4
             ],
             "outline": {
                "color": [
@@ -26199,10 +26199,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               218,
+               112,
+               214,
+               0.4
             ],
             "outline": {
                "color": [
@@ -26347,10 +26347,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               100,
+               149,
+               237,
+               0.4
             ],
             "outline": {
                "color": [
@@ -26567,10 +26567,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               127,
+               255,
+               0,
+               0.4
             ],
             "outline": {
                "color": [
@@ -26631,10 +26631,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               255,
+               215,
+               0,
+               0.4
             ],
             "outline": {
                "color": [
@@ -26787,10 +26787,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               186,
+               85,
+               211,
+               0.4
             ],
             "outline": {
                "color": [
@@ -27043,10 +27043,10 @@
          "symbol": {
             "type": "simple-fill",
             "color": [
-               154,
-               171,
-               158,
-               0.3
+               210,
+               105,
+               30,
+               0.4
             ],
             "outline": {
                "color": [
